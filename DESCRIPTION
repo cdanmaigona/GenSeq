@@ -1,0 +1,12 @@
+Package: GenSeq
+Type: Package I made 
+Title: Translates DNA or RNA to amino acids
+Version: 0.1.0
+Author: Catherine Dannmaigona Clement
+Maintainer: Catherine Dannmaigona Clement <cdanmaigona@tamu.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL(>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
