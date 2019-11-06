@@ -3,6 +3,6 @@ Translate DNA &amp;RNA sequences to amino acids
 
 To install this package directly from GitHub run the code below
 
-install_github('cdanmaigona/Genseq)
+<code>install_github('cdanmaigona/Genseq)</code>
 
-library(GenSeq)
+<code>library(GenSeq)</code>
