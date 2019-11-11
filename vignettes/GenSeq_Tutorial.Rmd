@@ -2,8 +2,10 @@
 title: "GenSeq_Tutorial"
 output:
   rmarkdown::html_vignette
-vignette: |
-  %\VignetteIndexEntry{GenSeq_Tutorial} %\VignetteEngine{knitr::rmarkdown} \usepackage[utf8]{inputenc}
+vignette: >
+  %\VignetteIndexEntry{GenSeq_Tutorial} 
+  %\VignetteEngine{knitr::rmarkdown} 
+  \usepackage[utf8]{inputenc}
 ---
 
 An easy package for translating DNA and RNA sequences to amino acids. It does not support ambuiguity codes. It only works with sequences that are from the nuclear genome of eukaryotes.
